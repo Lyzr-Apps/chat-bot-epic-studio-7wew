@@ -1,0 +1,15 @@
+{
+  "agents": {
+    "chat_agent": {
+      "agent_id": "69980ceb5c2b0725089691c2",
+      "name": "Chat Agent",
+      "provider_id": "OpenAI",
+      "model": "gpt-4.1",
+      "temperature": 0.7,
+      "top_p": 0.95
+    }
+  },
+  "agent_ids": {
+    "chat_agent": "69980ceb5c2b0725089691c2"
+  }
+}

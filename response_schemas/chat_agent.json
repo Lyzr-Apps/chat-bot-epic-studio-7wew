@@ -1,0 +1,10 @@
+{
+  "agent_name": "Chat Agent",
+  "agent_id": "69980ceb5c2b0725089691c2",
+  "agent_type": "json",
+  "accessor": "json",
+  "has_module_outputs": false,
+  "schema": {
+    "response_text": "string"
+  }
+}
